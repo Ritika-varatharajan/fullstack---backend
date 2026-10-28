@@ -14,8 +14,8 @@
     <groupId>com.assessment</groupId>
     <artifactId>assessment-tool-backend</artifactId>
     <version>1.0.0</version>
-    <name>assessment-tool-backend</name>
-    <description>Spring Boot REST API Backend with MySQL for Assessment Tool</description>
+    <name>ScoreCraft - Student Performance and Management System</name>
+    <description>Spring Boot REST API Backend with MySQL for ScoreCraft - Student Performance and Management System</description>
 
     <properties>
         <java.version>21</java.version>
